@@ -1,0 +1,29 @@
+[1]	Python Documentation, https://docs.python.org/, (dostęp: 22.10.2019r.)
+[2]	Keras Documentation, https://keras.io/, (dostęp: 20.10.2019r.)
+[3]	Tensorflow API Documentatio, https://www.tensorflow.org/api_docs, (dostęp: 31.10.2019r.
+[4]	pandas: powerful Python data analysis toolkit, https://pandas.pydata.org/pandas-docs/stable/, (dostęp 22.10.2019r.)
+[5]	scikit-learn Machine Learning in Python, https://scikit-learn.org/stable/, (dostęp: 22.10.2019r.)
+[6]	Introduction to Keras, https://link.springer.com/chapter/10.1007/978-1-4842-2766-4_7, dostęp (18.11.2019r.)
+[7]	Microsoft Cognitive Toolkit(CNTK), an open source deep-learning toolkit https://github.com/microsoft/CNTK (dostęp, 16.12.2019r.)
+[8]	Theano Documentation, http://deeplearning.net/software/theano/, (dostęp, 16.12.2019r.)
+[9]	Aurélien Géron, Uczenie maszynowe z użyciem Scikit-Learn i TensorFlow : pojęcia, techniki i narzędzia służące do tworzenia inteligentnych systemów, Helion, Gliwice 2018
+[10]	TensorFlow or Keras? Which one should I learn?, https://medium.com/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0, (dostęp: 12.11.2019r.)
+[11]	Open Source Computer Vision- documentation, https://opencv.org/, (dostęp: 22.10.2019r.)
+[12]	Numpy Documentation https://numpy.org/doc/, (dostęp: 22.10.2019r.)
+[13]	Jak wybrać algorytmy dla Azure Machine Learning Studio, https://docs.microsoft.com/pl-pl/azure/machine-learning/studio/algorithm-choice, (dostęp 29.10.2019r.)
+[14]	John Hearty, Zawwansowane uczenie maszynowe z językiem Python, Helion, Gliwice 2017
+[15]	Convolutional neural network, https://en.wikipedia.org/wiki/Convolutional_neural_network, (dostęp: 12.12.2019r.)
+[16]	Antonio Gulli, Sujit Pal, Deep learning with Keras, Packt Publishing, Birmingham 2017
+[17]	Peter Flach, Machine learning : the art and science of algorithms that make sense of data, Cambridge University Press, Cambridge 2012
+[18]	Introduction to Deep Learning- Deep Learning basics with Python, TensorFlow and Keras, https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/, (dostęp 1.12.2019r.)
+[19]	Fire and smoke detection with Keras and Deep Learning, https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/, (dostęp, 5.11.2019r.)
+[20]	Epochs vs iterations vs batch size, https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9 (dostęp: 16.12.2019r.)
+[21]	Chris Albon, Uczenie Maszynowe w Pythonie :receptury, wyd. Helion, Gliwice 2019
+[22]	Your first machine learning project in python step-by-step, https://machinelearningmastery.com/machine-learning-in-python-step-by-step/?fbclid=IwAR0sDN7vd7QDFq4omdXnP9pV3EYAmDJOdxpjgDp07ocSw0eJQdJKyJruHAA, (dostęp: 16.10.2019r.)
+[23]	Azure AI Gallery,https://gallery.azure.ai/, (dostęp: 10.11.2019r.)
+[24]	Fire Detection Image Dataset https://github.com/cair/Fire-Detection-Image-Dataset?fbclid=IwAR2b-IIqbTS2bdZL1URbh3gpeRbTJNuIVdKjNE_53ICZOa3UpqeqCNZK_Ds, (dostęp: 10.10.2019r.)
+[25]	Python machine learning mini course, https://machinelearningmastery.com/python-machine-learning-mini-course/, (dostęp: 20.11.2019r.)
+[26]	3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional and Model Subclassing), https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/, (dostęp: 5.11.2019r.)
+[27]	Keras Tutorial: The ultimate beginner’s guide to deep learning in python, https://elitedatascience.com/keras-tutorial-deep-learning-in-python, (dostęp 30.11.2019r.)
+[28]	Keras cctv fire detection https://github.com/YunHo0325/Meerkat/blob/master/README.md, (dostęp 22.11.2019r.)
+[29]	Experimentally Defined Convolutional Neural Network Architecture Variants for Non-temportal Real-time Fire Detection, https://github.com/tobybreckon/fire-detection-cnn?fbclid=IwAR2AvXTiZWc28xA65dvQ81TZQXGMDiClwr9x-0Uw3Xb-C1Hec7_JgfwnzMQ, (dostęp 20.11.2019r.)
